@@ -33,7 +33,7 @@ td{
     font-style: normal;
     color: rgb(102, 208, 230); 
     background-color: rgb(140, 140, 140);
-    border: 2px dotted rgb(140, 140, 140));
+    border: 2px dotted rgb(102, 208, 230);
 }
 .infestissumam{
     font-family: "Bona Nova SC", serif;
@@ -49,7 +49,7 @@ td{
     font-style: normal;
     color: rgb(98, 142, 128);
     background-color: rgb(65, 33, 14);
-    border: 2px dashed rgb(98, 142, 128);
+    border: 3px dashed rgb(98, 142, 128);
 }
 .nadpis{
     font-family: "Bona Nova SC", serif;

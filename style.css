@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(43, 42, 42);
+    color: rgb(200, 200, 200);
+}
+.uvod{
+    background-image: url(https://www.theprp.com/wp-content/uploads/2022/01/ghostlive2022-830x350-1.jpg);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+td{
+    border: 1px solid rgb(140, 140, 140);
+}
+#odkaz{
+    background-color: gray;
+    border: 2px solid white;
+}
+
+.bona-nova-sc-regular {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.opus{
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(102, 208, 230);
+    background-color: rgb(120, 120, 120);
+}
+.infestissumam{
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(85, 4, 27);
+    background-color: rgb(255, 157, 0);
+}
+.meliora{
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(98, 142, 128);
+    background-color: rgb(65, 33, 14);
+}

@@ -61,14 +61,13 @@ td{
 }
 .ghoulove{
     display: flex;
-    border: 2px solid gray;
     flex-wrap: wrap;
+    border: 2px solid gray;
 
 }
 .ghoulove .ghoul{
     min-width: 150px;
     flex-grow: 1;
-    flex-shrink: 1;
 }
 
 .ghoulove .ghoul h3 {
@@ -80,6 +79,16 @@ td{
     text-indent: 2em;
     margin: 0;
     padding: 10px;
+}
+@media all and (max-width:5000px){
+    .ghoulove .ghoul{
+        flex-basis: 25%;
+    }
+}
+@media all and (max-width:1000px){
+    .ghoulove .ghoul{
+        flex-basis: 50%;
+    }
 }
 .ghoulove .ghoul:nth-child(1) h3 {background-color: hsl(0, 91%, 29%); }
 .ghoulove .ghoul:nth-child(1) ul {background-color: hsl(0, 100%, 12%); }
